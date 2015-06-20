@@ -1,0 +1,11 @@
+.res-nightmode #siteTable .visited.link .title.loggedin.nsfw-ext,
+.res-nightmode #siteTable .link .title.loggedin.nsfw-ext:visited,
+.res-nightmode #siteTable .link .title.nsfw-ext:visited,
+.res-nightmode #siteTable .link .title.loggedin.click.nsfw-ext,
+.res-nightmode .organic-listing .link .title.nsfw-ext:visited {
+  color: rgb(221, 221, 221);
+}
+
+.thing .title.nsfw-ext:visited, .thing.visited .title.nsfw-ext {
+  color: blue;
+}
